@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "52005904037",
+    "firebase_url": "https://studentattendance-676f0.firebaseio.com",
+    "project_id": "studentattendance-676f0",
+    "storage_bucket": "studentattendance-676f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52005904037:android:fcd97176520bf190",
+        "android_client_info": {
+          "package_name": "com.sani.shaheed.studentattendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52005904037-c67okem2nt1lj80c2man1g5ff2fq3ors.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3p_Zo4LCtV-VMBIRHi8SQJjUuHOerTfY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
